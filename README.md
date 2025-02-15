@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey, I'm Nathan 👋
 
-<!--
-**nmstory/nmstory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! 
 
-Here are some ideas to get you started:
+As a lot of my work takes place away from here and under an NDA, this is just a small collection of projects from my spare-time, when I'm not busy salsa dancing!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Projects
+
+ - [Juntos](https://github.com/nmstory/juntos): a C++ peer-to-peer game networking library.
+ - [Vibe](https://github.com/nmstory/vibe): a Spotify extension to curate your ideal road-trip playlist.
+ - [Water Rendering](https://github.com/nmstory/Water-Dissertation-Project): my Master's degree dissertation project, water rendering whilst mainting strong performance.
+ - [Battleship](https://github.com/nmstory/Battleship): Java implementation of the original Hasbro board game.
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmstory&layout=compact&theme=dark)
