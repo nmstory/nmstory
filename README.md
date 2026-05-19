@@ -7,7 +7,7 @@ As a lot of my work takes place away from here and under an NDA, this is just a 
 
 # Projects
 
- - [Juntos](https://github.com/nmstory/juntos): a C++ peer-to-peer game networking library.
+ - [Juntos](https://github.com/nmstory/juntos): a C++ peer-to-peer networking library.
  - [Orla](https://github.com/nmstory/orla): a C++ distributed edge-network simulator, built using Juntos.
  - [Vibe](https://github.com/nmstory/vibe): a Spotify extension to curate your ideal road-trip playlist in Python.
  - [Water Rendering](https://github.com/nmstory/Water-Dissertation-Project): my Master's degree dissertation project, water rendering whilst mainting strong performance.
